@@ -8,7 +8,7 @@
 
 ## About the API
 
-The [Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml) and [GobiernoUSA.gov Aplicaciones (apps) móviles](http://www.usa.gov/gobiernousa/conectese-gobierno/apps.moviles.shtml) feature mobile apps and websites from government agencies on a variety of platforms in English and Spanish.
+The [Federal Mobile Apps Directory](https://www.usa.gov/mobile-apps) and [GobiernoUSA.gov Aplicaciones (apps) móviles](https://gobierno.usa.gov/apps-moviles) feature mobile apps and websites from government agencies on a variety of platforms in English and Spanish.
 
 The Federal Mobile Product API can be used to retrieve information about all of the apps and mobile sites in the directories.
 
@@ -171,4 +171,4 @@ JSONP Results
 
 ## Terms of Service
 
-By using this data, you agree to the [Terms of Service](/About/developer-resources/terms-of-service.shtml).
+By using this data, you agree to the [Terms of Service](https://www.usa.gov/developer-terms-of-service).
